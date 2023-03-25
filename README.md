@@ -25,7 +25,7 @@
 
 {"descriptionMoz":"PLUS TV AFRICA is a 24-hour news & entertainment television channel broadcasting on DSTV Channel 408 and StarTimes Channel 308, reaching a potential 4.2M households. Our mission is to raise the bar in news presentation and reportage on the continent by providing credible and objective information in business, politics, documentaries, youth engagement, sports, entertainment and much more. With our nationwide coverage, PLUS TV Africa is positioned to transmit big stories and exclusive content to Nigerians locally, across Africa and the world.","sourceMoz":["https://helga.iptv2022.com/Plus_Tv_Africa/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ2ODkyOTRf/PlusTVAfrica.jpeg","titleMoz":"PLUS TV AFRICA"},
 
-{"descriptionMoz":"Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.","sourceMoz":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ2ODkyNTJf/RACINES.png","titleMoz":"VOX AFRICA TV"},
+{"descriptionMoz":"Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.","sourceMoz":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleMoz":"VOX AFRICA TV"},
 
 {"descriptionMoz":"EURONEWS est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","titleMoz":"EURONEWS / ENGLISH"},
 
