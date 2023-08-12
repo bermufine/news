@@ -31,7 +31,9 @@
 
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
-{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
+{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
+
+{"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"AFRICA C NEWS"},
 
 {"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
