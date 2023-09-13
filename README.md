@@ -9,6 +9,8 @@
 
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png","titleMoz":"BBC WORLDS NEWS / ENGLISH"},
 
+{"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png","titleMoz":"BBC WORLDS NEWS / ENGLISH"},
+
 {"descriptionMoz":"PRESS TV is an Iranian state-owned news network that broadcasts in the English and French languages owned by Islamic Republic of Iran Broadcasting (IRIB), the only organization legally able to transmit radio and TV broadcasts in Iran. The 24-hour channel, which has headquarters in Tehran, was launched on 2 July 2007 and was intended to compete with western English language services","sourceMoz":["https://live1.presstv.ir/live/presstvfr/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4OTVf/press.jpeg","titleMoz":"PRESS TV"},
 
 {"descriptionMoz":"Fox News Television est une chaîne télévisée spécialisée au informations et autres.","sourceMoz":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png","titleMoz":"FOX NEWS"},
@@ -31,7 +33,7 @@
 
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
-{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
+{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
 
 {"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"AFRICA C NEWS"},
 
