@@ -7,7 +7,7 @@
 
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png","titleMoz":"BBC WORLDS NEWS / ENGLISH"},
 
-{"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png","titleMoz":"BBC WORLDS NEWS / ENGLISH"},
+{"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
 {"descriptionMoz":"PRESS TV is an Iranian state-owned news network that broadcasts in the English and French languages owned by Islamic Republic of Iran Broadcasting (IRIB), the only organization legally able to transmit radio and TV broadcasts in Iran. The 24-hour channel, which has headquarters in Tehran, was launched on 2 July 2007 and was intended to compete with western English language services","sourceMoz":["https://live1.presstv.ir/live/presstvfr/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4OTVf/press.jpeg","titleMoz":"PRESS TV"},
 
@@ -21,9 +21,9 @@
 
 {"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"},
 
-{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"RT FRANCE"},
+{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","titleMoz":"RT FRANCE"},
 
-{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"RUSSIA TODAY"},
+{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png","titleMoz":"RUSSIA TODAY"},
 
 {"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNN/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0MjVf/cnn.png","titleMoz":"CNN"},
 
@@ -39,7 +39,7 @@
 
 {"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
 
-{"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"AFRICA C NEWS"},
+{"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwOTdf/afric.png","titleMoz":"AFRICA C NEWS"},
 
 {"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
