@@ -1,7 +1,5 @@
 # news
-{"categorieMoz":[{"name":"Movies","videos":[
-
-{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
 {"descriptionMoz":"Aljazeera d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ENGLISH"},
 
@@ -21,7 +19,13 @@
 
 {"descriptionMoz":"FOR YOU MEDIA AFRICA est un média panafricain qui s'est engagé pour la cause des peuples africains. Porteur d'un message de solidarité et d’unité africaine, notre média se distingue par ses contenus innovants mais aussi de qualité. Porte flambeau des valeurs africaines et de la lutte pour l'indépendance totale de notre continent, FOR YOU MEDIA AFRICA est présent dans plusieurs pays africains. Apporter UNE AUTRE VISIONDU MONDE, c'est notre devise… la vision de l’Afrique par l'Afrique.","sourceMoz":["https://helga.iptv2022.com/Foryou_Tv/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ3MTQxMjNf/FORYOUMEDIAAFRICA.jpeg","titleMoz":"FOR YOU MEDIA"},
 
-{"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"},{"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNN/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0MjVf/cnn.png","titleMoz":"CNN"},
+{"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"},
+
+{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"RT FRANCE"},
+
+{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"RUSSIA TODAY"},
+
+{"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNN/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0MjVf/cnn.png","titleMoz":"CNN"},
 
 {"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://eja.tv/?76030387dfaee57df3bcb043e48cd03c.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
 
