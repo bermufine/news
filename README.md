@@ -9,6 +9,8 @@
 
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
+{"descriptionMoz":"BX1 TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"BX 1 TV"},
+
 {"descriptionMoz":"PRESS TV is an Iranian state-owned news network that broadcasts in the English and French languages owned by Islamic Republic of Iran Broadcasting (IRIB), the only organization legally able to transmit radio and TV broadcasts in Iran. The 24-hour channel, which has headquarters in Tehran, was launched on 2 July 2007 and was intended to compete with western English language services","sourceMoz":["https://live1.presstv.ir/live/presstvfr/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4OTVf/press.jpeg","titleMoz":"PRESS TV"},
 
 {"descriptionMoz":"Fox News Television est une chaîne télévisée spécialisée au informations et autres.","sourceMoz":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png","titleMoz":"FOX NEWS"},
