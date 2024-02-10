@@ -3,15 +3,31 @@
 
 {"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ARABIC"},
 
-{"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
+{"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
+
+{"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG 2"},
 
 {"descriptionMoz":"EURONEWS est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","titleMoz":"EURONEWS / ENGLISH"},
 
 {"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
+{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png","titleMoz":"RT / ENGLISH"},
+
+{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","titleMoz":"RT / FRANCE"},
+
+{"descriptionMoz":"CGTN est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CGTN"},
+
+{"descriptionMoz":"CNA TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNA INTERNATIONAL"},
+
+{"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"},
 
 
 
+
+
+
+
+{"descriptionMoz":"BXL 1 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"BXL 1"},
 
 {"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
@@ -31,12 +47,6 @@
 
 {"descriptionMoz":"RUSSIA 24 est une chaîne télévisée du France spécialisée aux informations international et autres.","sourceMoz":["http://178.162.218.85:8081/rustv/rossiya24.stream/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA5MzAzOThf/russia.png","titleMoz":"RUSSIA 24 TV"},
 
-{"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"},
-
-{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","titleMoz":"RT FRANCE"},
-
-{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png","titleMoz":"RUSSIA TODAY"},
-
 {"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNN/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0MjVf/cnn.png","titleMoz":"CNN"},
 
 {"descriptionMoz":"PLUS TV AFRICA is a 24-hour news & entertainment television channel broadcasting on DSTV Channel 408 and StarTimes Channel 308, reaching a potential 4.2M households. Our mission is to raise the bar in news presentation and reportage on the continent by providing credible and objective information in business, politics, documentaries, youth engagement, sports, entertainment and much more. With our nationwide coverage, PLUS TV Africa is positioned to transmit big stories and exclusive content to Nigerians locally, across Africa and the world.","sourceMoz":["https://helga.iptv2022.com/Plus_Tv_Africa/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ2ODkyOTRf/PlusTVAfrica.jpeg","titleMoz":"PLUS TV AFRICA"},
@@ -49,4 +59,6 @@
 
 {"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwOTdf/afric.png","titleMoz":"AFRICA C NEWS"},
 
-{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"}]}]}
+{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
+
+{"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"}]}]}
