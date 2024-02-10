@@ -1,9 +1,13 @@
 # news
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Aljazeera d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ENGLISH"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ENGLISH"},
+
+{"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ARABIC"},
 
 {"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
 
 {"descriptionMoz":"EURONEWS est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","titleMoz":"EURONEWS / ENGLISH"},
+
+{"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
 
 
@@ -17,7 +21,7 @@
 
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
-{"descriptionMoz":"BX1 TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"BX 1 TV"},
+
 
 {"descriptionMoz":"PRESS TV is an Iranian state-owned news network that broadcasts in the English and French languages owned by Islamic Republic of Iran Broadcasting (IRIB), the only organization legally able to transmit radio and TV broadcasts in Iran. The 24-hour channel, which has headquarters in Tehran, was launched on 2 July 2007 and was intended to compete with western English language services","sourceMoz":["https://live1.presstv.ir/live/presstvfr/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4OTVf/press.jpeg","titleMoz":"PRESS TV"},
 
@@ -44,7 +48,5 @@
 {"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
 
 {"descriptionMoz":"Africa C News est une chaîne télévisée d'informations panafricanisme et autres.","sourceMoz":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwOTdf/afric.png","titleMoz":"AFRICA C NEWS"},
-
-{"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
 {"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"}]}]}
