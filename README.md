@@ -17,7 +17,9 @@
 
 {"descriptionMoz":"BRICS TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BRICS TV"},
 
-{"descriptionMoz":"MSNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/MSNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"MSNBC"}
+{"descriptionMoz":"MSNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/MSNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"MSNBC"},
+
+{"descriptionMoz":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BUSINESS 24"},
 
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
