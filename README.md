@@ -17,11 +17,15 @@
 
 {"descriptionMoz":"BRICS TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BRICS TV"},
 
+{"descriptionMoz":"MSNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/MSNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"MSNBC"}
+
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
-{"descriptionMoz":"Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.","sourceMoz":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleMoz":"VOX AFRICA TV"},
+{"descriptionMoz":"Africa Media est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"AFRICA MEDIA"},
+
+{"descriptionMoz":"Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.","sourceMoz":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleMoz":"VOX AFRICA TV"},
 
 {"descriptionMoz":"Fox News Television est une chaîne télévisée spécialisée au informations et autres.","sourceMoz":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png","titleMoz":"FOX NEWS"},
 
@@ -34,6 +38,8 @@
 {"descriptionMoz":"BXL 1 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"BXL 1"},
 
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png","titleMoz":"BBC WORLDS NEWS / ENGLISH"},
+
+{"descriptionMoz":"ESPN NEWS est une francaise d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/ESPNews/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"ESPN NEWS"},
 
 {"descriptionMoz":"CNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"CNBC"}]}]}
 
