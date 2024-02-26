@@ -1,19 +1,21 @@
 # news
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ENGLISH"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
 
-{"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA TV / ARABIC"},
+{"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ARABIC"},
+
+{"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"CNN"},
 
 {"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
 
 {"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG 2"},
 
-{"descriptionMoz":"EURONEWS est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","titleMoz":"EURONEWS / ENGLISH"},
+{"descriptionMoz":"EURONEWS est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","titleMoz":"EURONEWS ENGLISH"},
 
 {"descriptionMoz":"DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.","sourceMoz":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg","titleMoz":"DW TV"},
 
-{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png","titleMoz":"RT / ENGLISH"},
+{"descriptionMoz":"Rassia Today est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/russiatoday/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png","titleMoz":"RT ENGLISH"},
 
-{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","titleMoz":"RT / FRANCE"},
+{"descriptionMoz":"RT France est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","titleMoz":"RT FRANCE"},
 
 {"descriptionMoz":"BRICS TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BRICS TV"},
 
