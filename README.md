@@ -1,7 +1,15 @@
 # news
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"i24 news TV est une chaine d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/i24news/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"i24 NEWS"},
+
+{"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
+
+{"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/africa24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ARABIC"},
+
+{"descriptionMoz":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BUSINESS 24"},
+
+{"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"CNN"},
 
@@ -20,10 +28,6 @@
 {"descriptionMoz":"BRICS TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BRICS TV"},
 
 {"descriptionMoz":"MSNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/MSNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"MSNBC"},
-
-{"descriptionMoz":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BUSINESS 24"},
-
-{"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
