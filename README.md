@@ -1,5 +1,5 @@
 # news
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"i24 news TV est une chaine d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/i24news/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"i24 NEWS"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
 {"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
 
@@ -28,10 +28,6 @@
 {"descriptionMoz":"BRICS TV est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"BRICS TV"},
 
 {"descriptionMoz":"MSNBC est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://38.96.178.201/live/MSNBC/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","titleMoz":"MSNBC"},
-
-{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
-
-{"descriptionMoz":"Africa Media est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"AFRICA MEDIA"},
 
 {"descriptionMoz":"Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.","sourceMoz":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleMoz":"VOX AFRICA TV"},
 
@@ -75,3 +71,7 @@
 {"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
 {"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
+
+{"descriptionMoz":"i24 news TV est une chaine d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/i24news/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"i24 NEWS"},
+
+{"descriptionMoz":"Africa Media est une francaise d'informations international et autres.","sourceMoz":["http://62.182.82.104/TV5_Monde/index.m3u8?token=test"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"AFRICA MEDIA"},
