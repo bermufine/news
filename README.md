@@ -1,6 +1,8 @@
 # news
 {"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
+{"descriptionMoz":"7 infos est une francaise d'informations international et autres.","sourceMoz":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","titleMoz":"7 INFOS"},
+
 {"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
 
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/africa24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
