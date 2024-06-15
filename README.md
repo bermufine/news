@@ -7,6 +7,8 @@
 
 {"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
 
+{"descriptionMoz":"SABC NEWS infos est une francaise d'informations international et autres.","sourceMoz":["http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg","titleMoz":"SABC NEWS"},
+
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/africa24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"Aljazeera Arabic TV est une chaine d'informations international et autres.","sourceMoz":["https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ARABIC"},
