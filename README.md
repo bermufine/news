@@ -1,6 +1,8 @@
 # news
 {"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV5 est une francaise d'informations international et autres.","sourceMoz":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","titleMoz":"TV5 MONDE"},
 
+{"descriptionMoz":"C-News est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/cnews/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxMjYyODRf/cnews.png","titleMoz":"C-NEWS"},
+
 {"descriptionMoz":"7 infos est une francaise d'informations international et autres.","sourceMoz":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","titleMoz":"7 INFOS"},
 
 {"descriptionMoz":"Aljazeera est une chaine d'informations d'informations international et autres.","sourceMoz":["https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png","titleMoz":"ALJAZEERA ENGLISH"},
@@ -14,6 +16,8 @@
 {"descriptionMoz":"Africa 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"AFRICA 24"},
 
 {"descriptionMoz":"CNN est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","titleMoz":"CNN"},
+
+{"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://185.59.221.131:8081/live/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
 {"descriptionMoz":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sourceMoz":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","titleMoz":"BLOOMBERG TV"},
 
@@ -70,9 +74,9 @@
 
 {"descriptionMoz":"PRESS TV is an Iranian state-owned news network that broadcasts in the English and French languages owned by Islamic Republic of Iran Broadcasting (IRIB), the only organization legally able to transmit radio and TV broadcasts in Iran. The 24-hour channel, which has headquarters in Tehran, was launched on 2 July 2007 and was intended to compete with western English language services","sourceMoz":["https://live1.presstv.ir/live/presstvfr/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNjc4OTVf/press.jpeg","titleMoz":"PRESS TV"},
 
-{"descriptionMoz":"BBC World News d'informations international et autres.","sourceMoz":["http://69.64.57.208/bbcnews/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png","titleMoz":"BBC NEWS"},
 
-{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
+
+{"descriptionMoz":"Channel 24 est une chaîne télévisée d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/i24news/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleMoz":"CHANNEL 24"},
 
 {"descriptionMoz":"i24 news TV est une chaine d'informations international et autres.","sourceMoz":["http://185.177.125.251:8080/i24news/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"i24 NEWS"},
 
